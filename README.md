@@ -69,7 +69,7 @@ PIZZA
 |      |_____ sexp_reader.py       # tree reader helper functions 
 |      |_____ trees.py             # tree classes and readers
 |      |
-|      |_____ entities             # directory with entity files
+|      |_____ catalogs             # directory with catalog files of entities
 |      
 |_____ doc 
 |      |_____ PIZZA_dataset_reader_metrics_examples.ipynb
