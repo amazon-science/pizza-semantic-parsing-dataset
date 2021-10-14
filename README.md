@@ -97,3 +97,19 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the CC-BY-NC-4.0 License.
 
+## How to cite
+The paper introducing this dataset is forthcoming, in the interim you can cite it as:
+```
+@misc{pizzaDataset,
+	author = {Konstantine Arkoudas and 
+	Nicolas Guenon des Mesnards and 
+	Melanie Rubino and 
+	Sandesh Swamy  and
+	Saarthak Khanna and
+	Weiqi Sun},
+	title = {Pizza: a task-oriented semantic parsing dataset},
+	url = {https://github.com/amazon-research/pizza-semantic-parsing-dataset},
+	year = {2021}
+}
+
+```
