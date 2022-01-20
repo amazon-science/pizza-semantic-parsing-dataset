@@ -56,7 +56,7 @@ The repo structure is as follows:
 PIZZA
 |
 |_____ data
-|      |_____ PIZZA_train.json.zip             # a zipped version of the training data
+|      |_____ PIZZA_train_unshuffled.json.zip  # a zipped version of the training data. Shuffle before use.
 |      |_____ PIZZA_train.10_percent.json.zip  # a random subset representing 10% of training data
 |      |_____ PIZZA_dev.json                   # the dev portion of the data
 |      |_____ PIZZA_test.json                  # the test portion of the data
