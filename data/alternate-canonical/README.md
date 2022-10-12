@@ -11,6 +11,7 @@ There are five files:
 * `PIZZA_dev.json` contains the 348 human annotated `dev` samples.
 * `PIZZA_test.json` contains the 1357 human annotated `test` samples.
 * `PIZZA_train.subsets.json.zip` is a zip file containing 3 subsets of the training data: `PIZZA_train.348_shots.json`, `PIZZA_train.3480_shots.json`, `PIZZA_train.104400_shots.json`, containing 348, 3,480, and 104,400 samples, respectively. Please see the CLASP paper for details about how each subset is used.
+* `PIZZA_train_unshuffled.json` is a zip file containing the full 2M training dataset with canonical forms. It has only SRC and CF to reduce file footprint, as the other fields TOP, TOP-Decoupled and EXR can be found in the original training file in `pizza-semantic-parsing-dataset/data`.
 
 Each json file contains four fields, where `XXX` is either `train`, `dev`, or `test`.
 
