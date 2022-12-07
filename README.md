@@ -100,16 +100,11 @@ This library is licensed under the CC-BY-NC-4.0 License.
 ## How to cite
 The paper introducing this dataset is forthcoming, in the interim you can cite it as:
 ```
-@misc{pizzaDataset,
-	author = {Konstantine Arkoudas and 
-	Nicolas Guenon des Mesnards and 
-	Melanie Rubino and 
-	Sandesh Swamy  and
-	Saarthak Khanna and
-	Weiqi Sun},
-	title = {Pizza: a task-oriented semantic parsing dataset},
-	url = {https://github.com/amazon-research/pizza-semantic-parsing-dataset},
-	year = {2021}
+@article{arkoudas2022pizza,
+  title={PIZZA: A new benchmark for complex end-to-end task-oriented parsing},
+  author={Arkoudas, Konstantine and Mesnards, Nicolas Guenon des and Rubino, Melanie and Swamy, Sandesh and Khanna, Saarthak and Sun, Weiqi and Haidar, Khan},
+  journal={arXiv preprint arXiv:2212.00265},
+  year={2022}
 }
 
 ```
